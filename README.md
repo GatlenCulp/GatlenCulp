@@ -1,4 +1,4 @@
-# 🪿 I'M GATLEN!!!! 🪿
+<h1 align="center">🪿 GATLEN!!!! 🪿</h1>
 
 <a href="https://github.com/GatlenCulp">
   <img align="left" src="./docs/profile-pic.png" width="250" height="250" alt="Profile Pic">
@@ -16,20 +16,24 @@
 
 <p>I'm a junior at MIT with a background in software engineering and entrepreneurship/organization. I'm currently interested in AI safety from a technical, policy, and cybersecurity perspective.</p>
 
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGllOGJyczl6b3l4MmtlNG9hbW9nNXVoMXljcWtzcWdpZHZkbWJ5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AR1Ici6edfxkDgivPv/giphy.gif" alt="divider" style="width: 100%; height: 4px; margin: 15px 0;">
+
+### Projects
+
 <a href="https://github.com/GatlenCulp/gatlens-opinionated-template">
   <!-- <strong>Side Project</strong><br/> -->
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GatlenCulp&repo=gatlens-opinionated-template&theme=dracula&card_width=250" alt="GOTem" />
+  <img height=125 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GatlenCulp&repo=gatlens-opinionated-template&theme=dracula&card_width=125" alt="GOTem" />
 </a>
 <a href="https://github.com/GatlenCulp/embedding_translation">
   <!-- <strong>Research Project</strong><br/> -->
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GatlenCulp&repo=embedding_translation&theme=dracula&card_width=250" alt="LEAD" />
+  <img height=125 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GatlenCulp&repo=embedding_translation&theme=dracula&card_width=125" alt="LEAD" />
 </a>
 <a href="https://github.com/GatlenCulp/vivaria">
   <!-- <strong>Contracting for AI Safety Evals</strong><br/> -->
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GatlenCulp&repo=vivaria&theme=dracula&card_width=250" alt="METR Vivaria" />
+  <img height=125 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GatlenCulp&repo=vivaria&theme=dracula&card_width=125" alt="METR Vivaria" />
 </a>
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGllOGJyczl6b3l4MmtlNG9hbW9nNXVoMXljcWtzcWdpZHZkbWJ5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AR1Ici6edfxkDgivPv/giphy.gif" alt="divider" style="width: 100%; height: 4px; margin: 40px 0;">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGllOGJyczl6b3l4MmtlNG9hbW9nNXVoMXljcWtzcWdpZHZkbWJ5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AR1Ici6edfxkDgivPv/giphy.gif" alt="divider" style="width: 100%; height: 4px; margin: 15 0;">
 
 <a href="https://github.com/GatlenCulp/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Gatlen&layout=compact&theme=dracula&border_radius=20" alt="WakaTime Stats">
