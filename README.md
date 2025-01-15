@@ -1,6 +1,6 @@
 <h1 align="center">🪿 GATLEN!!!! 🪿</h1>
 
-<p align="center">
+<p align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
     <a href="https://github.com/GatlenCulp">
         <img src="./docs/profile-pic.png" width="250" height="250" alt="Profile Pic">
     </a>
