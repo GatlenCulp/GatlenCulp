@@ -18,24 +18,18 @@
 
 
 <div style="display: flex; justify-content: space-between; gap: 10px;">
-  <div style="text-align: center;">
-    <strong>Side Project</strong>
-    <a href="https://github.com/GatlenCulp/gatlens-opinionated-template">
-      <img height=120 width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=GatlenCulp&repo=gatlens-opinionated-template&card_width=400" alt="GOTem" />
-    </a>
-  </div>
-  <div style="text-align: center;">
-    <strong>Research Project</strong>
-    <a href="https://github.com/GatlenCulp/embedding_translation">
-      <img height=120 width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=GatlenCulp&repo=embedding_translation&card_width=400" alt="LEAD" />
-    </a>
-  </div>
-  <div style="text-align: center;">
-    <strong>Contracting for AI Safety Evals</strong>
-    <a href="https://github.com/GatlenCulp/vivaria">
-      <img height=120 width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=GatlenCulp&repo=vivaria&card_width=400" alt="METR Vivaria" />
-    </a>
-  </div>
+  <a href="https://github.com/GatlenCulp/gatlens-opinionated-template">
+    <strong>Side Project</strong><br/>
+    <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GatlenCulp&repo=gatlens-opinionated-template&card_width=400" alt="GOTem" />
+  </a>
+  <a href="https://github.com/GatlenCulp/embedding_translation">
+    <strong>Research Project</strong><br/>
+    <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GatlenCulp&repo=embedding_translation&card_width=400" alt="LEAD" />
+  </a>
+  <a href="https://github.com/GatlenCulp/vivaria">
+    <strong>Contracting for AI Safety Evals</strong><br/>
+    <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GatlenCulp&repo=vivaria&card_width=400" alt="METR Vivaria" />
+  </a>
 </div>
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGllOGJyczl6b3l4MmtlNG9hbW9nNXVoMXljcWtzcWdpZHZkbWJ5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AR1Ici6edfxkDgivPv/giphy.gif" alt="divider" style="width: 100%; height: 4px; margin: 40px 0; object-fit: fill;">
