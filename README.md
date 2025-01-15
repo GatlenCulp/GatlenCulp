@@ -4,19 +4,15 @@
     <a href="https://github.com/GatlenCulp">
         <img src="./docs/profile-pic.png" width="250" height="250" alt="Profile Pic">
     </a>
-</p>
+    <a href="https://github.com/GatlenCulp">
+        <img src="https://github-readme-stats.vercel.app/api?username=GatlenCulp&theme=dracula&border_radius=20&show_icons=true&rank_icon=percentile&hide_title=true&card_width=500px&hide_border=true" alt="Gatlen's GitHub Stats">
+    </a>
+    <br/>
+    <a href="https://www.linkedin.com/in/gatlen-culp/"><img src="https://img.shields.io/badge/💼%20LinkedIn-Gatlen%20Culp-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://www.youtube.com/@Hugernot"><img src="https://img.shields.io/badge/YouTube-hugz-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a>
+    <a href="https://gatlen.me"><img src="https://img.shields.io/badge/🔗%20Website-gatlen.me-000000?style=flat&logoColor=white" alt="Website"></a>
+    <a href="https://gatlen.me"><img src="https://img.shields.io/badge/Medium-Gatlen%20Culp-12100E?style=flat&logo=medium&logoColor=white" alt="Website"></a>
 
-<a align="center" href="https://github.com/GatlenCulp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GatlenCulp&theme=dracula&border_radius=20&show_icons=true&rank_icon=percentile&hide_title=true&card_width=500px&hide_border=true" alt="Gatlen's GitHub Stats">
-</a>
-
-<br/>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/gatlen-culp/"><img src="https://img.shields.io/badge/💼%20LinkedIn-Gatlen%20Culp-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.youtube.com/@Hugernot"><img src="https://img.shields.io/badge/YouTube-hugz-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="https://gatlen.me"><img src="https://img.shields.io/badge/🔗%20Website-gatlen.me-000000?style=flat&logoColor=white" alt="Website"></a>
-  <a href="https://gatlen.me"><img src="https://img.shields.io/badge/Medium-Gatlen%20Culp-12100E?style=flat&logo=medium&logoColor=white" alt="Website"></a>
 </p>
 
 <br/>
