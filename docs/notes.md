@@ -18,3 +18,9 @@ https://simpleicons.org/
 https://github.com/alexandresanlim/Badges4-README.md-Profile (these are not my favorite)
 
 https://www.svgrepo.com/
+
+
+## LLM Notes for formatting
+1. For badges use `style=flat`
+2. `div` elements don't seem to work for github markdown. Instead place inside `p` elements.
+3. To center non-text, wrap in a `p` element and use `align="center"`

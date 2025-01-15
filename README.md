@@ -1,12 +1,16 @@
 <h1 align="center">🪿 GATLEN!!!! 🪿</h1>
 
-<a align="center" href="https://github.com/GatlenCulp">
-  <img align="left" src="./docs/profile-pic.png" width="250" height="250" alt="Profile Pic">
-</a>
+<p align="center">
+    <a href="https://github.com/GatlenCulp">
+        <img src="./docs/profile-pic.png" width="250" height="250" alt="Profile Pic">
+    </a>
+</p>
 
 <a align="center" href="https://github.com/GatlenCulp">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GatlenCulp&theme=dracula&border_radius=20&show_icons=true&rank_icon=percentile&hide_title=true&card_width=500px&hide_border=true" alt="Gatlen's GitHub Stats">
 </a>
+
+<br/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gatlen-culp/"><img src="https://img.shields.io/badge/💼%20LinkedIn-Gatlen%20Culp-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -15,12 +19,18 @@
   <a href="https://gatlen.me"><img src="https://img.shields.io/badge/Medium-Gatlen%20Culp-12100E?style=flat&logo=medium&logoColor=white" alt="Website"></a>
 </p>
 
-<p>I'm a junior at MIT with a background in software engineering and entrepreneurship/organization. I'm currently interested in AI safety from a technical, policy, and cybersecurity perspective.</p>
+<br/>
+
+<p>
+    I'm a junior at MIT with a background in software engineering and entrepreneurship/organization. I'm currently interested in AI safety from a technical, policy, and cybersecurity perspective.
+</p>
+
 <p align="center">
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGllOGJyczl6b3l4MmtlNG9hbW9nNXVoMXljcWtzcWdpZHZkbWJ5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AR1Ici6edfxkDgivPv/giphy.gif" alt="divider" style="width: 100%; height: 4px; margin: 15px 0;">
 </p>
 
 ### Projects
+
 <p align="center">
     <a href="https://github.com/GatlenCulp/gatlens-opinionated-template" style="display: flex; justify-content: center;">
     <img height=125 src="https://github-readme-stats.vercel.app/api/pin/?username=GatlenCulp&repo=gatlens-opinionated-template&theme=dracula&card_width=125&hide_border=true" alt="GOTem" />
@@ -33,11 +43,15 @@
     </a>
 </p>
 
-<img align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGllOGJyczl6b3l4MmtlNG9hbW9nNXVoMXljcWtzcWdpZHZkbWJ5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AR1Ici6edfxkDgivPv/giphy.gif" alt="divider" style="width: 100%; height: 4px; margin: 15 0;">
+<p align="center">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGllOGJyczl6b3l4MmtlNG9hbW9nNXVoMXljcWtzcWdpZHZkbWJ5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AR1Ici6edfxkDgivPv/giphy.gif" alt="divider" style="width: 100%; height: 4px; margin: 15 0;">
+</p>
 
-<a align="center" href="https://github.com/GatlenCulp/" style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Gatlen&layout=compact&theme=dracula&border_radius=20&hide_border=true" alt="WakaTime Stats">
-</a>
+<p align="center">
+    <a href="https://github.com/GatlenCulp/" style="display: flex; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Gatlen&layout=compact&theme=dracula&border_radius=20&hide_border=true" alt="WakaTime Stats">
+    </a>
+</p>
 
 <br/>
 
