@@ -1,10 +1,10 @@
 <h1 align="center">🪿 GATLEN!!!! 🪿</h1>
 
-<p align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-    <a href="https://github.com/GatlenCulp">
+<p align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; min-height: 300px;">
+    <a href="https://github.com/GatlenCulp" style="display: flex; align-items: center;">
         <img src="./docs/profile-pic.png" width="250" height="250" alt="Profile Pic">
     </a>
-    <a href="https://github.com/GatlenCulp">
+    <a href="https://github.com/GatlenCulp" style="display: flex; align-items: center;">
         <img src="https://github-readme-stats.vercel.app/api?username=GatlenCulp&theme=dracula&border_radius=20&show_icons=true&rank_icon=percentile&hide_title=true&card_width=500px&hide_border=true" alt="Gatlen's GitHub Stats">
     </a>
 </p>
