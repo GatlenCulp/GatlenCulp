@@ -12,7 +12,6 @@
     <a href="https://www.youtube.com/@Hugernot"><img src="https://img.shields.io/badge/YouTube-hugz-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a>
     <a href="https://gatlen.me"><img src="https://img.shields.io/badge/🔗%20Website-gatlen.me-000000?style=flat&logoColor=white" alt="Website"></a>
     <a href="https://gatlen.me"><img src="https://img.shields.io/badge/Medium-Gatlen%20Culp-12100E?style=flat&logo=medium&logoColor=white" alt="Website"></a>
-
 </p>
 
 <br/>
@@ -21,9 +20,13 @@
     I'm a junior at MIT with a background in software engineering and entrepreneurship/organization. I'm currently interested in AI safety from a technical, policy, and cybersecurity perspective.
 </p>
 
-<p align="center">
+<!-- TODO: Fix -->
+
+<!-- <p align="center">
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGllOGJyczl6b3l4MmtlNG9hbW9nNXVoMXljcWtzcWdpZHZkbWJ5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AR1Ici6edfxkDgivPv/giphy.gif" alt="divider" style="width: 100%; height: 4px; margin: 15px 0;">
-</p>
+</p> -->
+
+______________________________________________________________________
 
 ### Projects
 
@@ -39,9 +42,11 @@
     </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGllOGJyczl6b3l4MmtlNG9hbW9nNXVoMXljcWtzcWdpZHZkbWJ5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AR1Ici6edfxkDgivPv/giphy.gif" alt="divider" style="width: 100%; height: 4px; margin: 15 0;">
-</p>
+</p> -->
+
+______________________________________________________________________
 
 <p align="center">
     <a href="https://github.com/GatlenCulp/" style="display: flex; justify-content: center;">
